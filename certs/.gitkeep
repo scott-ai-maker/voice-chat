@@ -1,0 +1,2 @@
+# This directory is for SSL certificates used in lab environments
+# Add rootCA.crt here if using self-signed certificates
